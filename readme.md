@@ -1,2 +1,2 @@
 # Customer Panel
-This project make with datatable and using server side processing.
+This project made using datatable server side processing.
